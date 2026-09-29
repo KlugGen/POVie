@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6e6cbb56929d6d448cf95f07359ca06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - mapIcon: {fileID: 2800000, guid: 1adfa9c230112a647808af20cf29ae54, type: 3}
+  - spotIcon: {instanceID: 0}
+  - imageIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

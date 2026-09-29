@@ -1,0 +1,28 @@
+{
+    "placesNumber": 2000,
+    "myPlace": 200,
+    "points": 12345,
+    "places": [
+        { "id": 1, "nick": "nick_0", "points": 139 },
+        { "id": 2, "nick": "nick_1", "points": 162 },
+        { "id": 3, "nick": "nick_2", "points": 179 },
+        { "id": 4, "nick": "nick_3", "points": 116 },
+        { "id": 5, "nick": "nick_4", "points": 199 },
+        { "id": 6, "nick": "nick_5", "points": 162 },
+        { "id": 7, "nick": "nick_6", "points": 115 },
+        { "id": 8, "nick": "nick_7", "points": 153 },
+        { "id": 9, "nick": "nick_8", "points": 184 },
+        { "id": 10, "nick": "nick_9", "points": 138 },
+        { "id": 11, "nick": "nick_10", "points": 131 },
+        { "id": 12, "nick": "nick_11", "points": 178 },
+        { "id": 13, "nick": "nick_12", "points": 170 },
+        { "id": 14, "nick": "nick_13", "points": 149 },
+        { "id": 15, "nick": "nick_14", "points": 169 },
+        { "id": 16, "nick": "nick_15", "points": 193 },
+        { "id": 17, "nick": "nick_16", "points": 130 },
+        { "id": 18, "nick": "nick_17", "points": 198 },
+        { "id": 19, "nick": "nick_18", "points": 113 },
+        { "id": 20, "nick": "nick_19", "points": 119 },
+        { "id": 21, "nick": "nick_20", "points": 144 }
+    ]
+}

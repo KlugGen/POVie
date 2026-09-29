@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "476371488816",
+    "firebase_url": "https://perspectives-aa11c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "perspectives-aa11c",
+    "storage_bucket": "perspectives-aa11c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476371488816:android:c087d8c2dcebe727b05df5",
+        "android_client_info": {
+          "package_name": "com.dkk.perspectives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476371488816-98kt8naf4vsgtde72r1gh5a0c14vbs48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dkk.perspectives",
+            "certificate_hash": "265de15f3ac31c8b71ff7c4808c0c4b9c1461e27"
+          }
+        },
+        {
+          "client_id": "476371488816-qka2a9d8btq3ug2p4v3t1din6paovqmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlzBee7qX9l1GlOCDrr9xr42kBqxfWSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476371488816-qka2a9d8btq3ug2p4v3t1din6paovqmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476371488816-dtaqed3rldrt1r0461j1mpjaq9d8u6hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dkk.perspectives"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3524609303440458~1963619445"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476371488816:android:7757524831d03ae9b05df5",
+        "android_client_info": {
+          "package_name": "com.kluggen.perspectives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476371488816-qka2a9d8btq3ug2p4v3t1din6paovqmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmlzBee7qX9l1GlOCDrr9xr42kBqxfWSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476371488816-qka2a9d8btq3ug2p4v3t1din6paovqmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476371488816-dtaqed3rldrt1r0461j1mpjaq9d8u6hk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dkk.perspectives"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

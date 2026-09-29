@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490518461054",
+    "firebase_url": "https://perspectives-app-f90a3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "perspectives-app-f90a3",
+    "storage_bucket": "perspectives-app-f90a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490518461054:android:752f849824b250d766362f",
+        "android_client_info": {
+          "package_name": "com.kluggen.perspectives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490518461054-sve5e1dv9rqa7ceji342234ija0al517.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kluggen.perspectives",
+            "certificate_hash": "1fd478004cfa9670c675a4b1744da0872398cdf0"
+          }
+        },
+        {
+          "client_id": "490518461054-cp4pa1l4vjb7kk6e4fthhee8latfc5pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV2Tbhcvh0r_-FFFTwduaU6qUZ1BKvtfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490518461054-cp4pa1l4vjb7kk6e4fthhee8latfc5pg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490518461054-dh3d6endc0u9pq63rrsmlm48k3p5o4d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kluggen.perspectives"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

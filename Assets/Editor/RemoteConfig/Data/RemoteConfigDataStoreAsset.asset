@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"96b74322-c8e1-427e-b51d-1dd40f18b8d0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"autoRotationBonus\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"23fdaee8-c801-42a5-a4e1-af9ea10cd5b2\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"highlightBonus\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"dc62ed17-63cf-4609-a897-a83eb05c9987\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"noDistractorBonus\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ceb93c3f-7fc7-44f4-86ae-c87c2182e7a7\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"endlessTimerBonus\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"072b4ac5-915d-463d-be99-00c9c357177d\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"assetBundlesUrl\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"https://dkk-development.cloud/assetbundles\"\r\n    }\r\n  },\r\n 
+    {\r\n    \"metadata\": {\r\n      \"entityId\": \"0f635274-6fd4-4489-bf95-cc2d90b9da0c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"extendedTimer\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 15.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"33eb658e-8fdc-4167-a87c-92bcd8eb9e55\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"replayCost\",\r\n      \"type\": \"int\",\r\n      \"value\": 10\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"f720b83a-b8b8-4cc1-81e8-1d35a1253ec4\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"restartCost\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e5679c6c-dd93-4c57-835b-8dc49e6e34ea\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"adsScoreMultiplier\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"37afed3c-5e79-4f20-b9cb-7e2348cc01af\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"adsBalanceReward\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"1ac3e56b-31ae-44bb-9f98-bd6018110e65\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"angleRotationStep\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 45\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"81a23502-ec03-42f4-869d-05a0744b12b2\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"rotationAccuracyCheck\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    25\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"dbdc0060-f4cb-44a5-919b-38cded621ad5\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"adsBalanceAvailableTreshold\",\r\n     
+    \"type\": \"int\",\r\n      \"value\": 15\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"96b74322-c8e1-427e-b51d-1dd40f18b8d0\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"autoRotationBonus\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\":
+    {\r\n      \"entityId\": \"23fdaee8-c801-42a5-a4e1-af9ea10cd5b2\"\r\n    },\r\n   
+    \"rs\": {\r\n      \"key\": \"highlightBonus\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"dc62ed17-63cf-4609-a897-a83eb05c9987\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"noDistractorBonus\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ceb93c3f-7fc7-44f4-86ae-c87c2182e7a7\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"endlessTimerBonus\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 5\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"072b4ac5-915d-463d-be99-00c9c357177d\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"assetBundlesUrl\",\r\n      \"type\": \"string\",\r\n     
+    \"value\": \"https://dkk-development.cloud/assetbundles\"\r\n    }\r\n  },\r\n 
+    {\r\n    \"metadata\": {\r\n      \"entityId\": \"0f635274-6fd4-4489-bf95-cc2d90b9da0c\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"extendedTimer\",\r\n      \"type\": \"float\",\r\n     
+    \"value\": 15.0\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"33eb658e-8fdc-4167-a87c-92bcd8eb9e55\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"replayCost\",\r\n      \"type\": \"int\",\r\n      \"value\": 10\r\n   
+    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"f720b83a-b8b8-4cc1-81e8-1d35a1253ec4\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"restartCost\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 10\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"e5679c6c-dd93-4c57-835b-8dc49e6e34ea\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"adsScoreMultiplier\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"37afed3c-5e79-4f20-b9cb-7e2348cc01af\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"adsBalanceReward\",\r\n      \"type\":
+    \"int\",\r\n      \"value\": 2\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n     
+    \"entityId\": \"1ac3e56b-31ae-44bb-9f98-bd6018110e65\"\r\n    },\r\n    \"rs\":
+    {\r\n      \"key\": \"angleRotationStep\",\r\n      \"type\": \"int\",\r\n     
+    \"value\": 45\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"81a23502-ec03-42f4-869d-05a0744b12b2\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"rotationAccuracyCheck\",\r\n      \"type\": \"int\",\r\n      \"value\":
+    25\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"dbdc0060-f4cb-44a5-919b-38cded621ad5\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"adsBalanceAvailableTreshold\",\r\n     
+    \"type\": \"int\",\r\n      \"value\": 15\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"dec2ddde-bf1b-4875-82bc-af609eecf561\",\r\n   
+    \"name\": \"Production\",\r\n    \"id\": \"cec20081-15af-4ae0-82bb-2067ac129a22\",\r\n   
+    \"createdAt\": \"2021-01-19T19:58:45Z\",\r\n    \"updatedAt\": \"2021-01-19T19:58:45Z\",\r\n   
+    \"isDefault\": true\r\n  },\r\n  {\r\n    \"projectId\": \"dec2ddde-bf1b-4875-82bc-af609eecf561\",\r\n   
+    \"name\": \"Testing\",\r\n    \"id\": \"faba0035-7e89-4f4b-9f5a-a399e9eec0cb\",\r\n   
+    \"createdAt\": \"2021-04-15T12:43:06Z\",\r\n    \"updatedAt\": \"2021-04-15T12:43:06Z\",\r\n   
+    \"isDefault\": false\r\n  }\r\n]"
+  _rulesList: '[]'
+  _lastCachedRulesList: '[]'

@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:ScrollView style="height: auto;" />
+    <uie:FloatField label="Float Field" value="42.2" />
+    <uie:ProgressBar title="my-progress" high-value="95" />
+    <uie:EnumField label="Enum" value="Center" />
+</ui:UXML>
